@@ -1,0 +1,44 @@
+.marg-nav{
+    margin-left: 30%;
+}
+.nav-item{
+    margin:0 2% 0 2% ;
+   
+}
+.nav-link{
+   
+}
+.bg-img{
+    background: url("2202758.jpg");
+    
+    
+}
+.img-side{
+    width: 90%;
+
+    
+}
+.objective{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: beige;
+    padding-top: 50px;
+}
+
+#title{
+    background: url("2202758-PhotoRoom.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.intro{
+    padding-top: 5%;
+    font-size: 3rem;
+    color: aliceblue;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+
+}
